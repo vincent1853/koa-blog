@@ -1,0 +1,26 @@
+{
+  "name": "koa-blog",
+  "version": "1.0.0",
+  "description": "this is a blog application powered by koa and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent1853/koa-blog.git"
+  },
+  "keywords": [
+    "koa",
+    "blog"
+  ],
+  "author": "vincenttse08@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincent1853/koa-blog/issues"
+  },
+  "homepage": "https://github.com/vincent1853/koa-blog#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
